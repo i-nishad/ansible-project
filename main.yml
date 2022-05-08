@@ -1,3 +1,4 @@
 - installing apache
+- installing php packages
 - creating httpd.conf from template
 - restarting apache
